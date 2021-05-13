@@ -1,0 +1,18 @@
+2021-02-06 13:16:09,989  - LogDemo -INFO - Chrome opened
+2021-02-06 13:16:12,648  - LogDemo -INFO - Browser maximize
+2021-02-06 13:16:16,708  - LogDemo -INFO - App launch
+2021-02-06 13:16:16,741  - LogDemo -INFO - Clicked on email textfield
+2021-02-06 13:16:16,877  - LogDemo -INFO - email entered in username field
+2021-02-06 13:16:17,264  - LogDemo -INFO - window is closed
+2021-02-06 13:20:17,051  - LogDemo -INFO - Chrome opened
+2021-02-06 13:20:19,257  - LogDemo -INFO - Browser maximize
+2021-02-06 13:20:21,680  - LogDemo -INFO - App launch
+2021-02-06 13:20:21,717  - LogDemo -INFO - Clicked on email textfield
+2021-02-06 13:20:21,842  - LogDemo -INFO - email entered in username field
+2021-02-06 13:20:22,057  - LogDemo -INFO - window is closed
+2021-02-06 13:21:05,558  - LogDemo -INFO - Chrome opened
+2021-02-06 13:21:07,759  - LogDemo -INFO - Browser maximize
+2021-02-06 13:21:09,987  - LogDemo -INFO - App launch
+2021-02-06 13:21:10,017  - LogDemo -INFO - Clicked on email textfield
+2021-02-06 13:21:10,172  - LogDemo -INFO - email entered in username field
+2021-02-06 13:21:10,393  - LogDemo -INFO - window is closed
